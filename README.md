@@ -42,7 +42,6 @@ Application de gestion de boutique développée en Java Swing avec MySQL.
 ## 🎥 Démonstration vidéo
 
 
-
 ---
 
 ## 📊 Diagrammes UML
