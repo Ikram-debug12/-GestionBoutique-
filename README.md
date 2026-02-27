@@ -62,3 +62,12 @@ Le fichier SQL est disponible ici :
 ## 📝 Licence
 
 Projet réalisé dans le cadre d'un travail universitaire
+
+---
+
+## 👥 Équipe projet
+
+Ce projet a été réalisé en binôme par :
+
+- **Ikram Ait Mazouz** (moi) - [@Ikram-debug12](https://github.com/Ikram-debug12)
+- **** - [])
