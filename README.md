@@ -26,12 +26,17 @@ Application de gestion de boutique développée en Java Swing avec MySQL.
 ---
 
 ## 📦 Installation
+## 📦 Installation
 
-1. Télécharge l'installateur :  
-   [`GestionBoutique_Setup.exe`](installateur/GestionBoutique_Setup.exe)
+1. Télécharge l'installateur : [`GestionBoutique_Setup.exe`](installateur/GestionBoutique_Setup.exe)
 2. Exécute le fichier téléchargé
 3. Suis les instructions de l'assistant
-4. Lance l'application depuis le raccourci créé
+4. **Une fois installé, va dans :**  
+   `C:\Program Files (x86)\Gestion Boutique\`
+5. **Double-clique sur `lancer.bat`** (c'est le lanceur qui fonctionne à coup sûr)
+
+✅ Le fichier `lancer.bat` est fourni et évite toutes les erreurs classiques.
+
 
 ### Identifiants de connexion
 - **Login** : `admin`
