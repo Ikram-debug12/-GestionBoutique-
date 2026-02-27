@@ -49,13 +49,13 @@ https://github.com/user-attachments/assets/eb4adef3-42f3-4757-990b-b5dab2a38e37
  # Diagramme Use Case
  <img width="965" height="608" alt="image" src="https://github.com/user-attachments/assets/a5a96bac-e01d-4689-a26b-34e1d5eb8d68" />
  
-- [Diagramme de cas d'utilisation](docs/use-case-diagram.pdf)
+- 
 
   
  # Diagramme de classe 
  <img width="730" height="542" alt="image" src="https://github.com/user-attachments/assets/9eb4d293-72cd-4c58-974d-6173d5717dad" />
  
-- [Diagramme de classes](docs/class-diagram.pdf)
+- [Diagramme de classes](docs/UML projet jEE diag de classe et use cas .mdj)
 
 ---
 
