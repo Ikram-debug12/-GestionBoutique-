@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/eb4adef3-42f3-4757-990b-b5dab2a38e37
  
   
  # Diagramme de classe 
- <img width="730" height="542" alt="image" src="https://github.com/user-attachments/assets/9eb4d293-72cd-4c58-974d-6173d5717dad" />
+<img width="667" height="493" alt="image" src="https://github.com/user-attachments/assets/a56b4be3-e199-426f-a5c6-3f39d0cfa936" />
  
 
 ---
