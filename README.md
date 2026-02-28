@@ -5,7 +5,7 @@ Application de gestion de boutique développée en Java Swing avec MySQL.
 ---
 
 ## 📋 Fonctionnalités
-
+ 
 - 🔐 **Authentification** (login/mot de passe)
 - 📦 **Gestion des produits** (CRUD)
 - 👥 **Gestion des clients** (CRUD)
