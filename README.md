@@ -67,7 +67,7 @@ Le fichier SQL est disponible ici :
 
 ---
 
-🏛 Architecture
+## 🏛 Architecture
 
 <img width="1312" height="568" alt="Capture d&#39;écran 2026-03-01 113735" src="https://github.com/user-attachments/assets/07a52348-3a90-4d4c-83cd-17b7906dd69c" />
 
